@@ -1,1 +1,30 @@
+1|More
+2|.
+3|,
+4|Full
+5|full
+6|Time
+7|time
+8|Part
+9|part
+10|Home
+11|Health
+12|Fee
+13| for
+13|for 
+14|Service
+15|Regular
+16|Variable
+17|--
+18|Office 
+19|/
+20|II
+21|)
+22|(
+23|Remote-
+24|Administration
+25|Education
+26| and
+26|and 
+27|Center
 
